@@ -1,0 +1,18 @@
+set_value:
+  name: Set
+  description: Set the value of a Number entity.
+  target:
+    entity:
+      domain: terrario
+  fields:
+    value:
+      name: Value
+      description: The target value the entity should be set to.
+      example: 42
+      selector:
+        text:
+    light_status:
+      name: Luz Terrário
+      description:
+      selector:
+        boolean:

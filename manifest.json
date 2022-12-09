@@ -1,0 +1,8 @@
+{
+    "domain": "terrario",
+    "name": "Terrário",
+    "config_flow": true,
+    "requirements": [],
+    "iot_class": "cloud_polling",
+    "version": "0.1.0"
+}

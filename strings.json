@@ -1,0 +1,16 @@
+{
+    "config": {
+        "error": {
+            "url": "Url inválida."
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "url": "URL do Terrário"
+                },
+                "description": "Entre com os dados do Terrário",
+                "title": "Dados do Terrário"
+            }
+        }
+    }
+}
